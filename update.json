@@ -1,0 +1,10 @@
+{
+  "packageName": "com.andrew.hourpause",
+  "versionCode": 1005,
+  "versionName": "0.13.5",
+  "minSdk": 26,
+  "downloadUrl": "https://github.com/wander-yd/pauso-releases/releases/download/v0.13.5/Pauso.apk",
+  "apkSha256": "ed69fd0d646bf0d8d99c927f647eed6769d44cd6dfd806dee11015ee079e682c",
+  "apkSizeBytes": 1736040,
+  "releaseNotes": "Pauso now supports local music libraries and playlists.\n\n- Browse and search indexed phone audio, or add multiple files manually. Audio access is requested only when browsing.\n- Save playlists, rename them, reorder tracks and remove entries without deleting audio files.\n- Shuffle, repeat one song, repeat the playlist, or play once through.\n- Previous/next controls are available in the app and expanded notification; the compact countdown stays large.\n- Quiet intervals and manual pause still apply to every track. Install over Pauso to retain your existing settings.\n"
+}
