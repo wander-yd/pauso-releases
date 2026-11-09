@@ -1,10 +1,10 @@
 {
   "packageName": "com.andrew.hourpause",
-  "versionCode": 1006,
-  "versionName": "0.13.6",
+  "versionCode": 1007,
+  "versionName": "0.14.7",
   "minSdk": 26,
-  "downloadUrl": "https://github.com/wander-yd/pauso-releases/releases/download/v0.13.6/Pauso.apk",
-  "apkSha256": "55ffb5316a5b109a559ffa2379d82d6bb46435ae44cf125e95fd1b9d37a7b689",
-  "apkSizeBytes": 1736040,
-  "releaseNotes": "Improved update-check reliability.\n\n- Update information now has a direct small-file address plus the original GitHub release fallback.\n- Slower connections get more time; failed checks can retry sooner.\n- Manual errors offer Retry and a browser download page.\n- Local music, playlists, shuffle, repeat modes and quiet intervals are unchanged.\n\nIf your older Pauso cannot check for updates, install this APK over the old app once to get the fix. Do not uninstall first.\n"
+  "downloadUrl": "https://github.com/wander-yd/pauso-releases/releases/download/v0.14.7/Pauso.apk",
+  "apkSha256": "87bffd5d9f8258a3c33659360429c945bbeb4603e4bc3be5e8166e497ca92811",
+  "apkSizeBytes": 1748470,
+  "releaseNotes": "Sleep timer is now available below Rhythms.\n\n- Stop after 15, 30, 60 or 90 minutes, or choose a custom duration.\n- Finish the current play period and stop when its next break starts. If already resting, Stop now is offered.\n- A moon indicator shows the Sleep type, remaining time and stop time. Expand the notification for its own countdown and Cancel control.\n- Sleep keeps counting while manually paused. When it ends, the session stops completely and will not auto-resume.\n- Manual Stop cancels Sleep; recorded music position is retained. Existing music, playlists and Rhythms are preserved.\n\nNo Wake mode or extra permissions are included.\n"
 }
