@@ -1,10 +1,10 @@
 {
   "packageName": "com.andrew.hourpause",
-  "versionCode": 1007,
-  "versionName": "0.14.7",
+  "versionCode": 1020,
+  "versionName": "0.15.0",
   "minSdk": 26,
-  "downloadUrl": "https://github.com/wander-yd/pauso-releases/releases/download/v0.14.7/Pauso.apk",
-  "apkSha256": "87bffd5d9f8258a3c33659360429c945bbeb4603e4bc3be5e8166e497ca92811",
-  "apkSizeBytes": 1748470,
-  "releaseNotes": "Sleep timer is now available below Rhythms.\n\n- Stop after 15, 30, 60 or 90 minutes, or choose a custom duration.\n- Finish the current play period and stop when its next break starts. If already resting, Stop now is offered.\n- A moon indicator shows the Sleep type, remaining time and stop time. Expand the notification for its own countdown and Cancel control.\n- Sleep keeps counting while manually paused. When it ends, the session stops completely and will not auto-resume.\n- Manual Stop cancels Sleep; recorded music position is retained. Existing music, playlists and Rhythms are preserved.\n\nNo Wake mode or extra permissions are included.\n"
+  "downloadUrl": "https://github.com/wander-yd/pauso-releases/releases/download/v0.15.0/Pauso.apk",
+  "apkSha256": "7fc649e8eb1fe5c058a4c877c86e9e13c5391ac3d972f6a3f48d814ab824b2d6",
+  "apkSizeBytes": 2224963,
+  "releaseNotes": "Pauso 0.15.0 \u2014 Quiet turntable\n\n- Darker Player, Music and Settings pages with icon-only bottom navigation and less explanatory text.\n- Layered vinyl artwork, long curved tonearm, counterclockwise rotation and subtle record wobble. The live timer and light stay fixed; the arm lifts during silence. Reduce motion is available in Settings.\n- Tap empty Player space to hide/show controls. Compact rhythm control, moon Sleep entry and a discreet player-volume control.\n- Noise and Nature cards remember the last sound selected in each category.\n- Long-press songs for selection, select all visible results, and remove multiple playlist entries without deleting audio files.\n- Playlist Shuffle can start on a random track.\n\nExisting rhythms, playlists, file access, volume and Sleep behavior are retained. Install over the existing app; do not uninstall first.\n\nValidation: automated build, signing, regression and artwork-composition checks passed. Physical-device visual/performance review remains pending. Folder browsing, active-playback sound audition, Wake mode and video are not included.\n"
 }
