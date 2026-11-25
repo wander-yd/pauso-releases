@@ -4,7 +4,7 @@
   "versionName": "0.15.0",
   "minSdk": 26,
   "downloadUrl": "https://github.com/wander-yd/pauso-releases/releases/download/v0.15.0/Pauso.apk",
-  "apkSha256": "7fc649e8eb1fe5c058a4c877c86e9e13c5391ac3d972f6a3f48d814ab824b2d6",
-  "apkSizeBytes": 2224963,
+  "apkSha256": "f2d24ac12427b541b3de9b85a300ce1636380637c7c90e83e1d7b5eaa061e422",
+  "apkSizeBytes": 2237251,
   "releaseNotes": "Pauso 0.15.0 \u2014 Quiet turntable\n\n- Darker Player, Music and Settings pages with icon-only bottom navigation and less explanatory text.\n- Layered vinyl artwork, long curved tonearm, counterclockwise rotation and subtle record wobble. The live timer and light stay fixed; the arm lifts during silence. Reduce motion is available in Settings.\n- Tap empty Player space to hide/show controls. Compact rhythm control, moon Sleep entry and a discreet player-volume control.\n- Noise and Nature cards remember the last sound selected in each category.\n- Long-press songs for selection, select all visible results, and remove multiple playlist entries without deleting audio files.\n- Playlist Shuffle can start on a random track.\n\nExisting rhythms, playlists, file access, volume and Sleep behavior are retained. Install over the existing app; do not uninstall first.\n\nValidation: automated build, signing, regression and artwork-composition checks passed. Physical-device visual/performance review remains pending. Folder browsing, active-playback sound audition, Wake mode and video are not included.\n"
 }
